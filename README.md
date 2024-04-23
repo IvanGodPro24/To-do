@@ -18,9 +18,9 @@ The project includes HTML, CSS, and JavaScript files that implement the followin
 
 ## Technologies Used
 
-- HTML
-- CSS (with Bootstrap)
-- JavaScript
+- [x] HTML
+- [x] CSS (with Bootstrap)
+- [x] JavaScript
 
 ## Installation
 
